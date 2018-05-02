@@ -1,0 +1,15 @@
+Der Divisor müsste auf einem von verschiedenen Wegen als Gleitkommazahl
+geschrieben werden. Das kann man durch verwenden von Float- oder
+Double-Literalen erreichen:
+
+2f
+2d
+
+Eine weitere Möglichkeit besteht darin, die Zahl in Exponential- oder
+Hex-Darstellung zu auszuschreiben:
+
+0x1.0p1
+2.0E0
+
+
+Der Compiler muss die Zahl jedenfalls als Gleitkommazahl interpretieren.

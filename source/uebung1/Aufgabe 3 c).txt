@@ -1,0 +1,5 @@
+Dem boolean b wurde der Wahrheitwert false zugewiesen. Der Zuweisungoperator
+gibt false zurück und das Programm springt immer in den else-Block der
+Verzweigung.
+
+Der Vergleichsoperator == wurde mit dem Zuweisungsoperator = verwechselt.

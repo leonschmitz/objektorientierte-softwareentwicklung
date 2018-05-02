@@ -1,0 +1,17 @@
+a)
+
+Es wird der Wert der Variablen k ausgegeben, nachdem sie inkrementiert wurde.
+
+
+b)
+
+Es wird der Wert der Variablen k ausgegeben.
+
+
+c)
+
+Es wird der Wert der Variablen k ausgegeben, bevor sie ein weiteres Mal
+inkrementiert wird.
+
+
+Es wird bei allen Ausgaben dieselbe Zahl ausgegeben, weil alle drei drei Aufrufe zwischen der Inkrementierung liegen.
