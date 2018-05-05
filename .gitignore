@@ -22,5 +22,6 @@
 hs_err_pid*
 
 # IntelliJ IDEA
+.idea/uiDesigner.xml
 .idea/workspace.xml
 out/
