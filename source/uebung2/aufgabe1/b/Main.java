@@ -8,7 +8,7 @@ public class Main {
         if (n < 0 || k < 0) System.out.println("idiot");
         if (n < k) return 0;
         /* k <= n */
-        else return factorial(n) / factorial(k) * factorial(n - k);
+        else return factorial(n) / (factorial(k) * factorial(n - k));
     }
 
     public static void main(String... args) {
